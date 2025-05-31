@@ -1,4 +1,4 @@
-# README: Milk and Cream Transactions Query for International Milk Day 2019
+# Milk and Cream Transactions Query for International Milk Day 2019
 
 ## Description 📝
 
