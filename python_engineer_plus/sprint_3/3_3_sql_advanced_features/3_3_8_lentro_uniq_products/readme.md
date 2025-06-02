@@ -6,7 +6,7 @@ The provided SQL query aims to count the number of unique products in each categ
 
 It selects the date (`update_date`), store name (`name_store`), category (`category`), and the count of unique products (`uniq_name_cnt`), converting the `date_upd` column to a date format.
 
-The results are grouped by date, store, and category, sorted by the unique product count in descending order. However, the query contains an error that needs correction.
+The results are grouped by date, store, and category, sorted by the unique product count in descending order.
 
 ## Purpose 🎯
 
