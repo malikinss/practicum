@@ -3,8 +3,7 @@
 ## Description 📝
 
 The provided SQL query aims to retrieve the top 5 most expensive products from the `products_data_all` table, selecting the product name (`name`) and its price, named `max_price`.
-
-The results are intended to be sorted in descending order by price. However, the query contains issues that prevent it from correctly achieving the task's requirements.
+The results are intended to be sorted in descending order by price.
 
 ## Purpose 🎯
 
