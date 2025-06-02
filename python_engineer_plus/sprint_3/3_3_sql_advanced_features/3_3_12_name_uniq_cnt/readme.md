@@ -2,7 +2,7 @@
 
 ## Description 📝
 
-The provided SQL query aims to count the number of unique products for each store (`name_store`) in the `products_data_all` table, naming the count `name_uniq_cnt`. It seeks to identify the three stores with the smallest number of unique products, where the count exceeds 30, and display the store name and the number of unique products. However, the query contains several errors that prevent it from correctly achieving the task's requirements.
+The provided SQL query aims to count the number of unique products for each store (`name_store`) in the `products_data_all` table, naming the count `name_uniq_cnt`. It seeks to identify the three stores with the smallest number of unique products, where the count exceeds 30, and display the store name and the number of unique products.
 
 ## Purpose 🎯
 
