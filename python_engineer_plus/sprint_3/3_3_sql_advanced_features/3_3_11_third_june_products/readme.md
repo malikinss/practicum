@@ -2,7 +2,7 @@
 
 ## Description 📝
 
-The provided SQL query aims to count the number of products weighing more than 900 grams in each store (`name_store`) on June 3, 2019, from the `products_data_all` table. It selects the date (`update_date`), store name (`name_store`), and product count (`name_cnt`), converting `date_upd` to date format. The results are grouped by date and store, filtered to include only stores with fewer than 10 qualifying products. However, the query contains errors that need correction.
+The provided SQL query aims to count the number of products weighing more than 900 grams in each store (`name_store`) on June 3, 2019, from the `products_data_all` table. It selects the date (`update_date`), store name (`name_store`), and product count (`name_cnt`), converting `date_upd` to date format. The results are grouped by date and store, filtered to include only stores with fewer than 10 qualifying products.
 
 ## Purpose 🎯
 
